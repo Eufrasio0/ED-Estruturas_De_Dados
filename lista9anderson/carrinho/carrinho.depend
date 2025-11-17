@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1763404441 source:c:\users\eufrasio\onedrive\desktop\lista9anderson\carrinho\main.c
+	<stdio.h>
+	<stdlib.h>
+	"carrinho.h"
+
+1763404488 c:\users\eufrasio\onedrive\desktop\lista9anderson\carrinho\carrinho.h
+
+1763404401 source:c:\users\eufrasio\onedrive\desktop\lista9anderson\carrinho\function_littlecar.c
+	<stdio.h>
+	<stdlib.h>
+	"carrinho.h"
+	<string.h>
+
