@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1763505599 source:c:\users\eufrasio\onedrive\desktop\lista9anderson\automato\automato_qst2\func_automato.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"automato.h"
+
+1763505668 source:c:\users\eufrasio\onedrive\desktop\lista9anderson\automato\automato_qst2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"automato.h"
+
+1763505380 c:\users\eufrasio\onedrive\desktop\lista9anderson\automato\automato_qst2\automato.h
+
